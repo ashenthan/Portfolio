@@ -1,0 +1,12 @@
+*{border:solid}
+h1{color:aquamarine;
+background-color: black;}
+h2{color:coral;
+background-color: black;}
+p{color:cornflowerblue;
+background-color: black;}
+.MyHeader{background-color: chartreuse;
+display:flex;
+justify-content:space-around;}
+a:link{color:blueviolet}
+a:visited{color:red}

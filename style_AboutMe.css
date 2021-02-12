@@ -1,0 +1,6 @@
+*{border: solid;}
+.SM{background-color: crimson;  display:flex;  justify-content:flex-end}
+h1{background-color: greenyellow;margin-right: 320;}
+h2{background-color: aqua;padding-left: 320;}
+a:link{color:blueviolet}
+a:visited{color:red}

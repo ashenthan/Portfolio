@@ -1,0 +1,11 @@
+*{border : solid}
+.Grid{display: flex;flex-wrap: wrap;justify-content: space-evenly;}
+h1,h4{text-align: center; color: rgb(252, 228, 133); background-color: #fde478;}
+p{color: firebrick;}
+a:link{color:blueviolet}
+a:visited{color:red}
+.menu{margin-left:40 ;}
+.item{position: relative;}
+.item p{position: absolute;top: 50%; left:50%; transform: translate(-50%, -80%); opacity:0}
+.item:hover p{opacity: 1;}
+.item:hover img{opacity:0.33}
